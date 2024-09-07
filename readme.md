@@ -1,7 +1,7 @@
 ## Creación del repositorio Repo02
 
 
-#### Comandos utilizados hasta el momento:
+#### Todos los comandos utilizados hasta el momento:
 
 - __[git init](https://git-scm.com/docs/git-init)__ - Crea un nuevo repositorio local de Git en el espacio indicado,(o reinicia uno ya existente).
 
